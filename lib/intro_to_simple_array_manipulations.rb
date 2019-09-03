@@ -45,3 +45,7 @@ end
 def using_push(array, string)
   array.push(string)
 end
+
+def using_delete_at(array, integer)
+  array.delete(integer)
+end
